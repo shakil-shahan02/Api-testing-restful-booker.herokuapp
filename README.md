@@ -2,9 +2,9 @@
 
 Request List:
 
-Post Create Booking
-Get Booking
-Post Create Token
-Put Update Booking
-Patch Booking
-Delete Booking
+1. Post Create Booking
+2. Get Booking
+3. Post Create Token
+4. Put Update Booking
+5. Patch Booking
+6. Delete Booking
